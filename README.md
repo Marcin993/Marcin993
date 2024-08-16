@@ -1,4 +1,7 @@
 ## Hi there 👋
+Using Github to learn coding 😄
+Trying to produce something interesting and fun
+
 
 <!--
 **Marcin993/Marcin993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
